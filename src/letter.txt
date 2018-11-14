@@ -1,0 +1,7 @@
+Hello $toName,
+
+I am $myName, and I am looking to send you $send.
+
+Thanks,
+
+$myName

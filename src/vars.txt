@@ -1,0 +1,3 @@
+$myName Bob
+$toName James
+$send $100,000
